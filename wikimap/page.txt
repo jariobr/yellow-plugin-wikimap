@@ -1,0 +1,6 @@
+---
+Title: Wikimap
+Description: Sitemap
+Template: wikimap
+---
+This page is automatically generated.
